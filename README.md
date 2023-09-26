@@ -4,11 +4,11 @@ This is a project that aims to compare multiple classification methods including
 
 Our dataset comes from [Kaggle-Alzheimer MRI Preprocessed Dataset](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset). Methodologies include **Naive Bayes, Decision Tree, SVM, KNN, Logistic Regression, Random Forest, CNN and GAN**. It turns out common classification methods like Random Forest and Logistic Regression can reach approximately 90% accuracy already.
 
-![ml](.\images\ml.png)
+![ml](https://github.com/GOK-656/Alzheimer_Diagnosis_and_Reproduction/blob/main/images/ml.png)
 
 CNN is proposed to further increase the accuracy. BY adjusting our models and parameters, we reach around **98%** accuracy in MRI classification with the following structure.
 
-![](.\images\cnn.png)
+![cnn](https://github.com/GOK-656/Alzheimer_Diagnosis_and_Reproduction/blob/main/images/cnn.png)
 
 Statistics for CNN prediction:
 
@@ -20,11 +20,11 @@ Statistics for CNN prediction:
 
 Furthermore, we aim to let neural networks learn the patterns of MRI. GAN is used to reproduce similar MRI images based on the training set. The basic algorithm is as follows:
 
-![gan](.\images\gan.png)
+![gan](https://github.com/GOK-656/Alzheimer_Diagnosis_and_Reproduction/blob/main/images/gan.png)
 
 The images we reproduce seem also promising, with a high likelihood to original ones.
 
-![gan_MRI](.\images\gan_MRI.png)
+![gan_MRI](https://github.com/GOK-656/Alzheimer_Diagnosis_and_Reproduction/blob/main/images/gan_MRI.png)
 
 
 
