@@ -1,4 +1,4 @@
-# Alzhermer MRI Diagnosis and Reproduction with CNN and GAN
+# Alzheimer MRI Diagnosis and Reproduction with CNN and GAN
 
 This is a project that aims to compare multiple classification methods including KNN and CNN network in **Alzheimer’s disease diagnosis**, reach higher accuracy with only single-angled MRI dataset and use **GAN** network to reconstruct brain MRI photos of Alzheimer’s disease patients, which are possible to then be fed back to the classification network to test its result.  
 
